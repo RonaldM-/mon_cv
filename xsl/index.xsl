@@ -58,7 +58,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="identite">
-                                <div class"profil-img">
+                                <div class="profil-img">
                                     
                                 </div>
                                 <h1 class="nom"><xsl:value-of select="Cv/Personne/section/identite/prenom"/></h1>
