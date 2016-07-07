@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- <?xml-stylesheet type="text/css" href="css/style.css"?> -->
+<!-- <?xml-stylesheet type="text/css" href="style.css"?> -->
+
+<?xml-stylesheet type="text/xsl" href="xsl/index.xsl"?>
+
+<Cv>
+<Personne sexe="masculin">
+	<section>
+		<p>Développeur Web</p>
+	</section>
+	<section>
+		<identite>
+			<nom>MARCEL</nom>
+		</identite>
+		<identite>
+			<prenom>Ronald</prenom>
+		</identite>
+		<identite>
+			<age>30 ans</age>
+		</identite>
+		<identite>
+			<date_de_naissance>28/03/86</date_de_naissance>
+		</identite>
+		<identite>
+			<adresse>42 Rue Louis Pétri, 35200 Rennes</adresse>
+		</identite>
+
+		<identite>
+			<telephone>06.84.18.69.59</telephone>
+		</identite>
+		<identite>
+			<mail>ronald.marcel.mr@gmail.com</mail>
+		</identite>
+		<identite>
+			<permis>Permis B</permis>
+		</identite>
+	</section>
+</Personne>
+<section class="phrase_accroche">
+	<p>Mon objectif est d’évoluer dans le domaine du numérique.
+Mon point fort étant mon très grand professionnalisme.</p>
+</section>
+			<!-- Experience -->
+<experience>
+	<section>
+		<p>Work Experience</p>
+	</section>
+	<section>
+		<poste>
+			<date>Janvier 2015</date>
+			<entreprise>Papa Pique et Maman Coud</entreprise>
+			<lieu>Rennes (35)</lieu>
+			<descriptif>Employé polyvalent - Déstockage (CDD)</descriptif>
+		</poste>
+		<poste>
+			<date>Aout 2014</date>
+			<entreprise>Papa Pique et Maman Coud</entreprise>
+			<lieu>Saint Philibert, 56</lieu>
+			<descriptif>Employé polyvalent - Déstockage (CDD)</descriptif>
+		</poste>
+		<poste>
+			<date>Juin 2014</date>
+			<entreprise>EspaceJOB</entreprise>
+			<lieu>Rennes (35)</lieu>
+			<descriptif>Opérateur de saisie (CDD)</descriptif>
+		</poste>
+
+		
+		<poste>
+			<date>Décembre 2009</date>
+			<entreprise>Picard</entreprise>
+			<lieu> Ivry-sur-Seine, 94</lieu>
+			<descriptif>Employé de mise en rayon produit alimentaire surgelé
+(CDD)</descriptif>
+		</poste>
+
+		
+		<poste>
+			<date>Été 2004 à 2007</date>
+			<entreprise>EspaceJOB</entreprise>
+			<lieu>Petit Bourg (971)</lieu>
+			<descriptif>Ouvrier pour un menuisier (Emploi saisonnier)</descriptif>
+		</poste>
+	</section>
+</experience>
+
+			<!-- Formation -->
+
+<formations>
+	<section>
+		<p>Formation</p>
+	</section>
+	
+	<section>
+		<formation>
+			<date>2012-2014</date>
+			<intitule>Préparation en DSAA Diplôme Supérieur des Arts Appliqués</intitule>
+			<organisme>LAAB </organisme>
+			<lieu>Rennes (35)</lieu>
+			<niveau>Master I</niveau>
+		</formation>
+		
+		<formation>
+			<date>2009-2010</date>
+			<intitule>BTS Design produit</intitule>
+			<organisme>Lycée Jean Monnet</organisme>
+			<lieu>Herbiers (85)</lieu>
+			<niveau>BAC +2</niveau>
+		</formation>
+
+		<formation>
+			<date>2007-2009</date>
+			<intitule>BTS Design produit</intitule>
+			<organisme>Lycée Jean Monnet</organisme>
+			<lieu>Herbiers (85)</lieu>
+			<niveau>Niveau</niveau>
+		</formation>
+
+		<formation>
+			<date>2005-2007</date>
+			<intitule>Baccalauréat STI Arts Appliqués</intitule>
+			<organisme>Lycée Rivière des Pères</organisme>
+			<lieu>Basse-Terre, 971</lieu>
+			<niveau>BAC</niveau>
+		</formation>
+
+		<formation>
+			<date>2002-2005</date>
+			<intitule>Baccalauréat STI Génie Mécanique</intitule>
+			<organisme>Lycée Paul LACAVE</organisme>
+			<lieu>Basse-Terre, 971</lieu>
+			<niveau>Niveau</niveau> 
+		</formation>
+	</section>
+</formations>
+<!-- Competence -->
+<competences>
+	<section>
+		<p>Skill</p>
+	</section>
+	<section>
+		<competence>
+			<langage>HTML/HTML5 :</langage>
+			<niveau> &#9733; &#9733; &#9733; &#9734; &#9734; &#9734; &#9734; &#9734; &#9734;</niveau>
+		</competence>
+		<competence>
+		<langage>CSS/CSS3 :</langage> 
+		<niveau>&#9733; &#9733; &#9733; &#9734; &#9734; &#9734; &#9734; &#9734; &#9734;</niveau>
+		</competence>
+		<competence>
+		<langage>PHP :</langage>
+		<niveau>&#9733; &#9733; &#9733; &#9734; &#9734; &#9734; &#9734; &#9734; &#9734;</niveau>
+		</competence>
+		<competence>
+		<langage>RUBY:</langage>
+		<niveau>&#9733; &#9733; &#9733; &#9734; &#9734; &#9734; &#9734; &#9734; &#9734;</niveau>
+		</competence>
+		<competence>
+		<langage>JAVASCRIPT :</langage>
+		<niveau>&#9733; &#9733; &#9733; &#9734; &#9734; &#9734; &#9734; &#9734; &#9734;</niveau>
+		</competence>
+		<competence>
+		<langage>JAVA :</langage>
+		<niveau>&#9733; &#9733; &#9733; &#9734; &#9734; &#9734; &#9734; &#9734; &#9734;</niveau>
+		</competence>
+		<competence>
+		<langage>SQL:</langage>
+		<niveau> &#9733; &#9733; &#9733; &#9734; &#9734; &#9734; &#9734; &#9734; &#9734;</niveau>
+		</competence>
+		 
+	</section>
+</competences>
+<!-- Divers -->
+<divers>
+	<section>
+			<p>Divers</p>
+	</section>
+	<section>
+		<langue>Anglais notion</langue>
+		<loisirs>Bricolage, Informatique, Imprimante 3D, Badminton, Jeux vidéo en réseaux.</loisirs>
+	</section>
+</divers>
+<!-- Divers  -->
+</Cv>

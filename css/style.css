@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Muli:400,300,600,700,800);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+
+body {
+	font-family: "Open Sans"!important;
+	width: 100%;
+	height: 100%;
+}
+
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+		/*PARAMETRAGE DES SECTIONS*/
+
+
+.intro-section {
+
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: blue;
+}
+
+.about-section {
+
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.experiences-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.formations-section {
+
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: violet;
+}
+.competences-section {
+
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: red;
+}
+.divers-section {
+
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: brown;
+}
+
+.profil-img{
+	display: block;
+	
+}
